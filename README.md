@@ -92,17 +92,7 @@ Trained Logistic Regression and Random Forest classifiers on medical data, achie
 
 <br/>
 
-## GitHub Analytics
 
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzahad40&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-
-
-</div>
-
-<br/>
 
 ## Education
 
