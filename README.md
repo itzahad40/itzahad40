@@ -1,29 +1,30 @@
 <div align="center">
 
-# Ahad Ali
+# Hi, I'm Ahad Ali 👋
 
 ### Software Developer · Python & JavaScript · AI/ML Integration
 
-Building AI-integrated applications, automation pipelines, and web systems. ~1 year of experience delivering production-grade LLM workflows and ML-driven solutions.
+Building AI-integrated applications, automation pipelines, and web systems.
+~1 year of experience delivering production-grade LLM workflows and ML-driven solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahad-ali-07869a258)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahad-ali-07869a258/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahad.ngl8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzahad40)
 
 </div>
 
-<br/>
+---
 
-## About Me
+## 🙋 About Me
 
 - 🔭 Currently working as a **Web Developer & Social Media Manager** at **Eduplanet Inc.**, Noida
 - 🤖 Delivered **200+ production-grade LLM workflows**, built an end-to-end evaluation framework, and trained ML classifiers on real-world datasets
 - 🎓 B.Tech in Computer Science Engineering, AKTU (2022 – 2026)
 - 🌱 Focused on bridging traditional software engineering with applied AI/ML
 
-<br/>
+---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -60,9 +61,9 @@ Building AI-integrated applications, automation pipelines, and web systems. ~1 y
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
-<br/>
+---
 
-## Experience
+## 💼 Experience
 
 **Web Developer & Social Media Manager** — Eduplanet Inc.
 *Nov 2026 – Present · Noida, India · On-site*
@@ -76,36 +77,45 @@ Building AI-integrated applications, automation pipelines, and web systems. ~1 y
 - Optimized website performance and cross-browser compatibility
 - Participated in agile workflows, code reviews, and UI/UX improvements
 
-<br/>
+---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🔹 LLM Evaluation Framework
 `Python` · `OpenAI API` · `JSON` · `Automation`
 
 Modular evaluation harness benchmarking GPT-3.5 vs GPT-4 on factual Q&A, code generation, and summarization using custom scoring rubrics. Automated a human-in-the-loop scoring pipeline that generated structured JSON reports, driving prompt optimization across 3 task categories.
 
-### 🔹 Diabetes Prediction System
+### 🔹 [Diabetes Prediction System](https://github.com/itzahad40/Ahad-Ali-dibetes-prediction-maker)
 `Python` · `Scikit-learn` · `Pandas` · `ML Modelling`
 
 Trained Logistic Regression and Random Forest classifiers on medical data, achieving ~79% cross-validated accuracy through feature engineering. Used structured LLM prompting to generate synthetic edge-case samples for dataset augmentation, bridging traditional ML with generative AI workflows.
 
-<br/>
+---
 
+## 📂 More on GitHub
 
+| Project | Stack | Description |
+|---|---|---|
+| [UpscaleAI](https://github.com/itzahad40/UpscaleAI) | Python | AI-based upscaling project |
+| [E-commerce-website](https://github.com/itzahad40/E-commerce-website) | HTML | E-commerce website |
+| [PORTFOLIO](https://github.com/itzahad40/PORTFOLIO) | HTML | Personal portfolio site |
+| [newschooladmission](https://github.com/itzahad40/newschooladmission) | JavaScript | School admission web app |
 
-## Education
+---
 
-| Qualification | Institution | Year |
+## 🎓 Education
+
+| Qualification | Institution | Year / Score |
 |---|---|---|
 | B.Tech, Computer Science Engineering | Meerut Institute of Technology (AKTU) | 2022 – 2026 |
 | Intermediate | MK College Darbhanga (BSEB) | 65% |
 | Matriculation | Angel High School Darbhanga (CBSE) | 70% |
 
-<br/>
+---
 
 <div align="center">
 
-📫 Reach me at **ahad.ngl8@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/ahad-ali-07869a258)
+📫 Reach me at **ahad.ngl8@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/ahad-ali-07869a258/)
 
 </div>
